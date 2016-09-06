@@ -1,6 +1,6 @@
 {
   "name": "jolo-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A converter for JOLO files. The converter takes a yaml file and converts it to json file. ",
   "main": "lib/index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "dependencies": {
     "js-yaml": "^3.6.1",
     "lodash": "^4.0.0",
-    "jolo-preprocessor": "^1.0.0"
+    "jolo-preprocessor": "^1.0.1"
   },
   "homepage": "https://github.com/lucasoptimizely/jolo-converter#readme"
 }
